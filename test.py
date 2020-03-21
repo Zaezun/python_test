@@ -109,4 +109,4 @@ t.pensize(4)
 
 for k in range(15):
     t.circle(200/1.6**k,90)
-
+# 황금비율 거북이
